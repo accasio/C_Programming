@@ -1,0 +1,4 @@
+Title	Author	Year	ISBN	Wholesle Price	Retail Price
+hi	how	4	1	2.000000	9.000000	
+food	for	0	2	90.000000	11.000000	
+moo	cow	1345	4	8.230000	0.670000	
